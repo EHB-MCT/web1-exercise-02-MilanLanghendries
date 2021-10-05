@@ -1,0 +1,43 @@
+p{
+    line-height: 1px;
+    color: grey;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px;
+    background-color: #e9eaea
+}
+
+
+
+.grijs{
+    color: grey;
+}
+
+h1{
+    color: red;
+}
+
+a{
+    text-decoration-line: none;
+    text-transform: uppercase;
+    line-height: 2;
+    background-color: rgb(253, 37, 37);
+    padding: 10px;
+    display: inline-block;
+    margin-top: 15px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+a:link{
+    color: white    ;
+}
+
+a:hover{
+    background-color: rgb(255, 107, 107);
+}
+
+a:visited{
+    color: white;
+}
